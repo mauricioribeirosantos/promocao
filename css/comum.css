@@ -1,0 +1,78 @@
+body {
+	background-color: #f5f6fd;
+}
+
+.titulo {
+	text-align: center;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+	font-family: arial;
+	text-transform: uppercase;
+}
+
+.menu {
+	background-color: rgba(67,203,255,0.4);
+	text-transform: uppercase;
+}
+
+.imagem-principal {
+	width: 100%;
+}
+
+.formulario {
+	width: 100%;
+	padding: 10%;
+}
+
+.formulario .cadastrado {
+	padding: 10px;
+	text-align: center;
+}
+
+.lista {
+	width: 100%;
+	display: inline-block;
+}
+
+/*
+.lista div {
+	display: inline-block;
+	width: 45%;
+	text-align: justify;
+	margin-left: 2%;
+}
+*/
+
+.rodape {
+	width: 100%;
+}
+
+.index-rodape {
+	position: relative;
+	width: 100%;
+    margin-bottom:0;
+    clear: both;
+}
+
+.index-texto-centralizado {
+	background-color: rgba(67,203,255,0.4);
+	text-align: center;
+	height: 10%;
+	padding: 10px;
+}
+
+.comum-rodape {
+	position: relative;
+	width: 100%;
+    bottom:0;
+    background-color: rgba(67,203,255,0.4);
+}
+
+.comum-texto-centralizado {
+	text-align: center;
+}
+
+.comum-texto-centralizado p{
+	margin-bottom: 0;
+}

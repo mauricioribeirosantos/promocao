@@ -1,0 +1,33 @@
+.titulo {
+	text-align: center;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+	font-family: arial;
+	text-transform: uppercase;
+}
+
+.menu {
+	background-color: rgba(67,203,255,0.4);
+	text-transform: uppercase;
+}
+
+.lista {
+	width: 100%;
+	padding: 1%;
+}
+
+.usuario-rodape {
+	position: relative;
+	width: 100%;
+    bottom:0;
+    background-color: rgba(67,203,255,0.4);
+}
+
+.usuario-texto-centralizado {
+	text-align: center;
+}
+
+.usuario-texto-centralizado p{
+	margin-bottom: 0;
+}
